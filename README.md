@@ -1,24 +1,58 @@
-# 💫 About Me:
-I'm Keerthi, an AI Automation Specialist based in Bangalore, with a strong foundation in digital marketing and a growing focus on AI engineering.<br><br>I started my career in digital marketing, where I spent over 2.5 years working with multiple clients on lead generation, campaigns and growth strategy. That experience taught me how businesses actually acquire and retain customers. Building on it, I moved into AI engineering, where I now design and deploy AI-powered systems for clients.<br><br>My work includes:<br>• AI agents and workflow automation using n8n, Make.com and Zapier<br>• WhatsApp Business API chatbots for customer engagement and bookings<br>• CRM and lead generation pipelines that run end to end<br>• LLM integrations with OpenAI, Google Gemini and Claude<br>• API and webhook-based integrations across business tools<br><br>Because I understand both the marketing side and the technical side, I build automation that solves real business problems and delivers measurable results, not just technical demos.<br><br>I'm currently open to AI Engineer and AI Automation roles where I can build production-ready AI solutions.
+Build a premium, animated GitHub profile README for me using my attached images.
+Use me.png for my portrait and wave.png for the contact section.
+Do not redraw or alter my face.
 
+DESIGN DIRECTION
+Dark-tech, high-end SaaS look. Deep navy background (#070b16), electric blue (#247bff) and crimson (#ff354f) accents, off-white text, bold modern sans-serif, subtle dot texture, glowing gradient borders, rounded cards, soft glow highlights. Generous spacing, consistent 24px grid, same card style across all files. It should look like a designed landing page, not a template.
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Keerthir0110tech) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/aiwithkee) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aiwithkee0110) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/61588992159851) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aiwithkee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/keerthiraiautomation) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/aiwithkee) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Ai-With-Kee) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Living_Mess_1690) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/keerthir0011) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AiWithkee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aiwithkee@gmail.com) 
+MY DETAILS
+Name: Keerthi R
+GitHub username: Keerthir0110tech
+Role and company: AI Engineer, Digital Bigbozz (Bangalore, open to work)
+One-line pitch: I build AI agents that run businesses on autopilot.
+4 roles: AI Engineer, Automation Architect, WhatsApp Bot Builder, LLM Agent Developer
+Tech stack (grouped):
+- Automation: n8n, Make, Zapier
+- AI/LLM: OpenAI, Gemini, Claude, RAG, AI Agents
+- Build: TypeScript, Python, Node.js, APIs and Webhooks
+- Messaging and CRM: WhatsApp Business API, lead-gen pipelines
+Right now: building social-media-ai-agent, learning RAG and multi-agent systems, reading [EDIT: book or blog]
+3 projects:
+1. social-media-ai-agent | AI agent that automates social media content and posting | https://github.com/Keerthir0110tech/social-media-ai-agent
+2. [EDIT: name] | [one line] | [link]
+3. [EDIT: name] | [one line] | [link]
+3 fun facts for the trading card:
+- Started in digital marketing, 2.5+ years of lead generation work
+- Posts daily AI automation content to 6,000+ followers on LinkedIn
+- Builds WhatsApp chatbots that handle bookings end to end
+Social links:
+Portfolio https://portfolio.digitalbigbozz.com
+LinkedIn https://linkedin.com/in/keerthiraiautomation
+Instagram https://instagram.com/aiwithkee
+YouTube https://youtube.com/@AiWithkee
+X https://x.com/keerthir0011
+Email aiwithkee@gmail.com
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![ReScript](https://img.shields.io/badge/rescript-%2314162c?style=for-the-badge&logo=rescript&logoColor=e34c4c) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![PlanetScale](https://img.shields.io/badge/planetscale-%23000000.svg?style=for-the-badge&logo=planetscale&logoColor=white) ![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Mercurial](https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Keerthir0110tech&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Keerthir0110tech&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Keerthir0110tech&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+CREATE THESE 5 ANIMATED SVG FILES IN AN assets FOLDER
+1. intro.svg: name appears letter by letter, 4 roles swap every 2 seconds, pitch line, my portrait, and a small "Open to work" pill with a pulsing dot.
+2. right-now.svg: three cards (Building / Learning / Reading) fading in one after another.
+3. toolkit.svg: tech stack as keyboard keys, grouped by type with group labels, keys gently pressing one at a time.
+4. card.svg: collectible trading card with my portrait, name, role, 3 fun facts, and a shiny light sweep.
+5. say-hi.svg: waving character on the left, social links as cards on the right (Portfolio, LinkedIn, Instagram, YouTube, X, Email).
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+THEN CREATE README.md
+- Show all 5 SVGs in order, centered.
+- A clean table of my 3 projects (name, one line, link).
+- My social links as plain clickable text under say-hi.svg.
+- No stats cards, no streak widgets, no badge walls, no old content.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Keerthir0110tech&limit=5&theme=dark&combine_all_yearly_contributions=true)
+GITHUB RULES (must follow)
+- Each SVG self-contained: embed images and fonts inside it (base64).
+- CSS animation only. No JavaScript, no external links or files.
+- Every SVG must still look complete if animation does not play.
+- End every image link in the README with ?v=1
+- Readable on a phone: minimum 14px equivalent text, nothing cut off at 390px width.
+- Looks good in both GitHub dark and light mode (SVGs carry their own background).
 
----
-[![](https://komarev.com/ghpvc/?username=Keerthir0110tech&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+QUALITY CHECK BEFORE FINISHING
+Check every file for cut-off text, overlapping elements, spelling, and contrast. Render each SVG and fix problems. Give me everything as a ZIP and tell me exactly which files to upload.
